@@ -14,33 +14,33 @@ API utiliza a arquitetura Rest desenvolvida em Node.js simulando serviços finan
 
 <b>Ferramentas 🧰:</b>
 
-➡️Arquitetura Rest;
-➡️JavaScript;
-➡️Node.js;
-➡️Git;
+➡️Arquitetura Rest;<br>
+➡️JavaScript;<br>
+➡️Node.js;<br>
+➡️Git;<br>
 ➡️GitHub.
 
 ## Requisitos
 
 <b>👉Deve ser possível:</b>
 
-➡️Atualizar os dados do cliente;
-➡️Buscar o extrato bancário do cliente;
-➡️Buscar o extrato bancário do cliente por data;
-➡️Criar uma conta;
-➡️Deletar a conta;
-➡️Realizar um depósito;
-➡️Realizar um saque;
-➡️Atualizar os dados do cliente;
+➡️Atualizar os dados do cliente;<br>
+➡️Buscar o extrato bancário do cliente;<br>
+➡️Buscar o extrato bancário do cliente por data;<br>
+➡️Criar uma conta;<br>
+➡️Deletar a conta;<br>
+➡️Realizar um depósito;<br>
+➡️Realizar um saque;<br>
+➡️Atualizar os dados do cliente;<br>
 ➡️Obter dados da conta do cliente.
 
 ## Regras de negócio
 
 <b>👉Não deve ser possível:</b>
 
-➡️Buscar o extrato em uma conta inexistente;
-➡️Cadastrar uma conta com CPF já cadastrado;
-➡️Excluir uma conta inexistente;
-➡️Realizar um depósito em uma conta inexistente;
-➡️Realizar saque em uma conta inexistente;
+➡️Buscar o extrato em uma conta inexistente;<br>
+➡️Cadastrar uma conta com CPF já cadastrado;<br>
+➡️Excluir uma conta inexistente;<br>
+➡️Realizar um depósito em uma conta inexistente;<br>
+➡️Realizar saque em uma conta inexistente;<br>
 ➡️Não concluír o saque se o saldo for negativo.
